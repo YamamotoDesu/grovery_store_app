@@ -1,7 +1,7 @@
 # grovery_store_app
 https://www.youtube.com/watch?v=uSljGJGSl6w
 
-<img width="551" alt="スクリーンショット 2023-05-03 17 53 50" src="https://user-images.githubusercontent.com/47273077/235872365-ceb738c8-d409-44af-9bca-88ac216609bc.gif">
+<img width="300" alt="スクリーンショット 2023-05-03 17 53 50" src="https://user-images.githubusercontent.com/47273077/235872365-ceb738c8-d409-44af-9bca-88ac216609bc.gif">
 
 ## Getting Started
 
